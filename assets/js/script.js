@@ -7,26 +7,28 @@ const NAME_ELEMENT = document.getElementById("name");
 
 let phraseListOne = [
   "will",
-  "shall always",
+  "shall",
   "is cursed to",
   "will forever",
   "is destined to",
   "is fated to",
 ];
+
 let phraseListTwo = [
-  "be covered in",
-  "be imprisoned in",
+  "be covered in a",
+  "be imprisoned in a",
   "be chained to a",
   "be infected with",
   "be haunted by",
 ];
+
 let phraseListThree = [
-  "a mountain of Banshee poop!",
-  "buckets of Leprechaun spittle!",
-  "the Divil's fire for all eternity!",
-  "a lake of boiling stout!",
-  "an ocean of poison whiskey for infinity!",
-  "rotten potatoes for ten years!",
+  "mountain of Banshee poop!",
+  "prison cell filled with evil fairy spittle!",
+  "shackles forged by the Divil's fire for all eternity!",
+  "pool of boiling stout!",
+  "endless ocean of poison whiskey!",
+  "field of haunted rotten potatoes for ten years!",
 ];
 
 let phraseListIndexMap = [phraseListOne, phraseListTwo, phraseListThree];
